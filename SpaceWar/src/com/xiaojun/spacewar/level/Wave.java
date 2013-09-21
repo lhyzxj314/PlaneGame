@@ -1,0 +1,16 @@
+package com.xiaojun.spacewar.level;
+
+public class Wave {
+	private String type;  // µ–ª˙¿‡–Õ
+//	private List<>
+
+	public String getType() {
+		return type;
+	}
+
+	public void setType(String type) {
+		this.type = type;
+	}
+
+	
+}

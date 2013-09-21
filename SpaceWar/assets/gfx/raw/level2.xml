@@ -1,0 +1,65 @@
+<space_assault>
+      <wave>
+            <enemy type="ship">1</enemy>
+      </wave>
+      <wave>
+            <enemy type="ship">4</enemy>
+      </wave>
+      <wave>
+            <enemy type="ship">2</enemy>
+      </wave>
+      <wave>
+            <enemy type="ship">3</enemy>
+      </wave>
+      <wave>
+            <enemy type="ship">1</enemy>
+      </wave>
+      <wave>
+            <enemy type="ship">4</enemy>
+      </wave>
+      <wave>
+            <enemy type="ship">2</enemy>
+      </wave>
+      <wave>
+            <enemy type="ship">2</enemy>
+      </wave>
+      <wave>
+            <enemy type="ship">3</enemy>
+      </wave>
+      <wave>
+            <enemy type="ship">4</enemy>
+      </wave>
+      <wave>
+            <enemy type="ship">3</enemy>
+      </wave>
+      <wave>
+            <enemy type="ship">1</enemy>
+      </wave>
+      <wave>
+            <enemy type="ship">4</enemy>
+      </wave>
+      <wave>
+            <enemy type="ship">2</enemy>
+      </wave>
+      <wave>
+            <enemy type="ship">2</enemy>
+      </wave>
+      <wave>
+            <enemy type="ship">3</enemy>
+      </wave>
+      <wave>
+            <enemy type="ship">4</enemy>
+      </wave>
+      <wave>
+            <enemy type="ship">3</enemy>
+      </wave>
+      <wave>
+            <enemy type="ship">1</enemy>
+      </wave>
+      <wave>
+            <enemy type="ship">4</enemy>
+      </wave>
+      <wave>
+            <enemy type="ship">2</enemy>
+      </wave>
+</space_assault>
